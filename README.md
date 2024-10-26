@@ -1,8 +1,7 @@
 # Análise Fundamentalista do Setor Imobiliário
 
 > Projeto desenvolvido no intuito de analisar dados referentes ao setor imobiliário Brasileiro.
-
-Este projeto tem como objetivo realizar uma análise fundamentalista detalhada das empresas do setor imobiliário listadas na B3. Utilizando indicadores-chave como retorno líquido, margem líquida, e ROA, a análise visa fornecer insights sobre o desempenho financeiro das empresas.
+- tem como objetivo realizar uma análise fundamentalista detalhada das empresas do setor imobiliário listadas na B3. Utilizando indicadores-chave como retorno líquido, margem líquida, e ROA, a análise visa fornecer insights sobre o desempenho financeiro das empresas.
 
 ## Estrutura do Projeto
 - `data/`: Contém dados brutos e tratados.
