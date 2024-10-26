@@ -6,7 +6,11 @@
 #### Indicadores de rentabilidade 
 - Lidam diretamente com a eficiência das empresas em rentabilidade e geração de lucro. Para este projeto foram escolhidas duas: ROA (Return on Assets) e Margem líquida.
 - O ROA mede a capacidade das empresas em gerar lucro a partir de seus ativos. Pensando para o caso do setor imobiliário, em que parte da rentabilidade de construtoras advém justamente sob estes ativos, faz total sentido ser englobada para melhor visualização.
-- 
+- Margem líquida é a capacidade das empresas em gerarem lucro líquido a partir de sua receita total. Outro indicador útil para medir a eficiência e não somente retorno bruto.
+#### Indicadores de liquidez
+- Basicamente são indicadores que referem-se a capacidade das empresas em arcarem com suas dívidas, ou seja, de honrarem seus compromissos.
+- Para este caso foi utilizado o índice de Liquidez Seca: 
+
 ## Estrutura do Projeto
 
 
