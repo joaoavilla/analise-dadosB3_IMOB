@@ -1,9 +1,15 @@
 # Análise Fundamentalista do Setor Imobiliário
 
-> Projeto desenvolvido no intuito de analisar dados referentes ao setor imobiliário Brasileiro.
-- tem como objetivo realizar uma análise fundamentalista detalhada das empresas do setor imobiliário listadas na B3. Utilizando indicadores-chave como retorno líquido, margem líquida, e ROA, a análise visa fornecer insights sobre o desempenho financeiro das empresas.
+### > Projeto desenvolvido no intuito de analisar dados referentes ao setor imobiliário Brasileiro - IMOB
+- A partir do índice imobiliário brasileiro - IMOB. Tomou-se como Proxy 18 das principais empresas que representam o setor, e a partir destas, geraram-se quatro indicadores para três classes distintas em estrutura financeira, divididas em dois períodos distintos. Como assim? 
 
+#### Indicadores de rentabilidade 
+- Lidam diretamente com a eficiência das empresas em rentabilidade e geração de lucro. Para este projeto foram escolhidas duas: ROA (Return on Assets) e Margem líquida.
+- O ROA mede a capacidade das empresas em gerar lucro a partir de seus ativos. Pensando para o caso do setor imobiliário, em que parte da rentabilidade de construtoras advém justamente sob estes ativos, faz total sentido ser englobada para melhor visualização.
+- 
 ## Estrutura do Projeto
+
+
 - `data/`: Contém dados brutos e tratados.
 - `notebooks/`: Notebook Jupyter com o fluxo de análise.
 - `src/`: Scripts para extração, processamento e visualização de dados.
